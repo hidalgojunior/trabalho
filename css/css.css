@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Satisfy&display=swap');
+
+*{
+ margin:0px;   
+ padding: 0px;
+ 
+}
+h1{
+    font-family: 'Satisfy';
+}
+p{
+    font-family: 'Bungee Shade';
+}
+
